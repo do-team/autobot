@@ -1,4 +1,5 @@
 [
+  "hubot-microsoft-translator",
   "hubot-darksky",
   "hubot-diagnostics",
   "hubot-help",
