@@ -1,5 +1,5 @@
 [
-  "hubot-darksky"
+  "hubot-darksky",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",

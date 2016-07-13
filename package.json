@@ -5,7 +5,6 @@
   "author": "davesade.42@gmail.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
-    "googlemaps": "^1.6.0",
     "hubot": "^2.19.0",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
