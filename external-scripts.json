@@ -1,5 +1,4 @@
 [
-  "hubot-microsoft-translator",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
@@ -9,5 +8,5 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-aws",
-  "hubot-darksky"
+  "hubot-auth"
 ]
