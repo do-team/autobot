@@ -16,7 +16,7 @@ Placement:
 NetworkInterfaces: [
     {
       Groups: [
-        "sg-04d6c663"
+        "sg-04d6c663,sg-8bf4e4ec"
       ]
       SubnetId                 : "subnet-f3c01585"
       DeviceIndex              : 0
