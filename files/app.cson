@@ -4,11 +4,11 @@ MaxCount: 1
 
 DryRun: false
 
-ImageId: "ami-9f18e7ff"
+ImageId: "ami-035fa263"
 
 KeyName: "test_key"
 
-InstanceType: "t2.micro"
+InstanceType: "t1.micro"
 
 Placement:
     AvailabilityZone: "us-west-2b"
