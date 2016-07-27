@@ -8,7 +8,7 @@ ImageId: "ami-9f18e7ff"
 
 KeyName: "test_key"
 
-InstanceType: "t1.micro"
+InstanceType: "t2.micro"
 
 Placement:
     AvailabilityZone: "us-west-2b"
