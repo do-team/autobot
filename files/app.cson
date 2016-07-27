@@ -4,7 +4,7 @@ MaxCount: 1
 
 DryRun: false
 
-ImageId: "ami-9f18e7ff"
+ImageId: "ami-035fa263"
 
 KeyName: "test_key"
 
@@ -16,7 +16,7 @@ Placement:
 NetworkInterfaces: [
     {
       Groups: [
-        "launch-wizard-1"
+        "sg-04d6c663"
       ]
       SubnetId                 : "subnet-f3c01585"
       DeviceIndex              : 0
