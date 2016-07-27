@@ -4,7 +4,7 @@ MaxCount: 1
 
 DryRun: false
 
-ImageId: "ami-035fa263"
+ImageId: "ami-9f18e7ff"
 
 KeyName: "test_key"
 
