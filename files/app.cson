@@ -1,0 +1,26 @@
+MinCount: 1
+
+MaxCount: 1
+
+DryRun: false
+
+ImageId: "ami-9f18e7ff"
+
+KeyName: "test_key"
+
+InstanceType: "t1.micro"
+
+Placement:
+    AvailabilityZone: "us-west-2b"
+
+NetworkInterfaces: [
+    {
+      Groups: [
+        "launch-wizard-1"
+      ]
+      SubnetId                 : "subnet-f3c01585"
+      DeviceIndex              : 0
+      AssociatePublicIpAddress : true
+    }
+]
+
