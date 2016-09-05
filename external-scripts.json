@@ -1,4 +1,6 @@
 [
+  "hubot-standup-alarm",
+  "hubot-daily-update",
   "hubot-diagnostics",
   "hubot-lambda",
   "hubot-help",
