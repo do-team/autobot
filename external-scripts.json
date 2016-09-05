@@ -1,5 +1,6 @@
 [
   "hubot-diagnostics",
+  "hubot-lambda",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-pugme",

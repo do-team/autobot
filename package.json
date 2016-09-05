@@ -7,6 +7,7 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-auth": "github:hubot-scripts/hubot-auth",
+    "hubot-lambda": "0.0.0",
     "hubot-aws": "^0.4.0",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
