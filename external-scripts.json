@@ -1,4 +1,5 @@
 [
+  "hubot-victory",
   "hubot-standup-alarm",
   "hubot-daily-update",
   "hubot-diagnostics",

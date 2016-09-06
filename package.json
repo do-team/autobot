@@ -5,6 +5,9 @@
   "author": "davesade.42@gmail.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+  "hubot": ">= 2.5.1",
+  "hubot-scripts": ">= 2.4.2",
+  "hubot-victory": ">= 0.0.0",
     "hubot": "^2.19.0",
     "hubot-auth": "github:hubot-scripts/hubot-auth",
     "hubot-lambda": "0.0.0",
