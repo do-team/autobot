@@ -12,5 +12,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-aws",
-  "hubot-auth"
+  "hubot-auth",
+  "hubot-ansible"
 ]
